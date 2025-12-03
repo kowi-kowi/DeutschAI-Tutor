@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+secrets.toml
+*.sqlite3
+*.wav
+*.mp3
+
